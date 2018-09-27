@@ -17,18 +17,33 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
   <h6> - <a href = https://www.arduino.cc/en/Main/Software target="_blank"> Software Arduino </a>
   
   <H2> Funcionamiento de componentes </H2>
-<H4> Arduino UNO </H4>
-<img src = "/arduino.jpg">
+ <H4> Arduino UNO </H4>
+  <H6> 
+     Placa de microcontroladores de código abierto ampliamente utilizada basada en el microcontrolador ATmega328P de Microchip y   desarrollada por Arduino.cc.
+Cuenta con su propia plataforma de prototipos electrónica de código abierto (open-source) basada en hardware y software.
+  </H6>
+  <img src = "/arduino.jpg">
   
   <H4> Reed Switch </H4>
-  <img src = "/reed_switch_funcion.jpg">
-  <img src = "/reed_switch.png">
+     <H6> 
+     Interruptor de lengüeta o reed switch es un interruptor eléctrico activado por un campo magnético. 
+     Cuando los contactos están normalmente abiertos se cierran en la presencia de un campo magnético; cuando están normalmente cerrados se abren en presencia de un campo magnético
+     </H6>
+   <img src = "/reed_switch_funcion.jpg">
+   <img src = "/reed_switch.png">
   
   <H4> Buzzer </H4>
+  <H6> 
+   Transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono. 
+   Sirve como mecanismo de señalización o <i> aviso  </i>
+  </H6>
   <img src = "/buzzer.png">
   <img src = "/buzzer_arduino.png">
   
   <H4> Potenciometro </H4>
+  <H6> 
+  Instrumento para medir las diferencias de potencial eléctrico.
+  </H6>
   <img src = "/pote.png">
   <img src = "/pote_arduino.png">
   
